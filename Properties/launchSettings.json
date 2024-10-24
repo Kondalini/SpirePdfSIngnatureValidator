@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "SpirePdfValidator": {
+      "commandName": "Project",
+      "commandLineArgs": "\"D:\\PdfSignValidatorSpire\\Справка за предоставени услуги.pdf\""
+    }
+  }
+}
